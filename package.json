@@ -1,6 +1,6 @@
 {
-  "name": "dotenv-vault",
-  "version": "1.26.2",
+  "name": "@aminya/dotenv-vault",
+  "version": "1.26.2-aminya.1",
   "description": "A secrets manager for .env files – from the same people that pioneered dotenv.",
   "author": "Mot @dotenvorg",
   "bin": {
